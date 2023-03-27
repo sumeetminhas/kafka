@@ -1,0 +1,3 @@
+RECEIVER :: DEBUG – Received buy event with trace id 93e2f9fb-62e2-4665-9ff3-e32d8ae164c6
+RECEIVER :: DEBUG – Received buy event with trace id 0d1848e1-eee6-417b-9901-49c285f57fa9
+RECEIVER :: DEBUG – Received response with trace id 0d1848e1-eee6-417b-9901-49c285f57fa9, status code 500
